@@ -14,7 +14,7 @@ app.use(bodyParser.json())
 app.use('/navtodo', router);
 
  
-app.listen(PORT, () => {
+module.exports = app.listen(PORT, () => {
   // listening on port 4000
-  console.log(`listening on port ${PORT}`) 
+ // console.log(`listening on port ${PORT}`) 
 })

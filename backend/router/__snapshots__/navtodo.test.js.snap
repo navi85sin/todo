@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET /navtodo/  Create a snapshot 1`] = `
+Array [
+  Object {
+    "__v": 0,
+    "_id": "5f956ece90665408632dc5cc",
+    "completed": false,
+    "task": "testing new model layout",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f957184c572030898a31d58",
+    "completed": true,
+    "task": "3333 testing new model layout",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f9571e2491d4408a5040eef",
+    "completed": true,
+    "task": "99999 testing new model layout",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96a638b8559d0c530de99d",
+    "completed": false,
+    "task": "web  testing form 1",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96a8ceb8559d0c530de99e",
+    "completed": false,
+    "task": "web testing 2",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96aa98b8559d0c530de99f",
+    "completed": false,
+    "task": "test",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96acfcb8559d0c530de9a1",
+    "completed": false,
+    "task": "hello world",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96ad61b8559d0c530de9a2",
+    "completed": false,
+    "task": "hello world 22",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96ada2b8559d0c530de9a3",
+    "completed": false,
+    "task": "hello world 22 22",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96af58b8559d0c530de9a4",
+    "completed": false,
+    "task": "hello world 22 2222",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96af7d23f5950cbdcd9980",
+    "completed": false,
+    "task": "s world 22 2222",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96afcd65fb1b0ceaf8157c",
+    "completed": false,
+    "task": "3232",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96b0078cf9150d226b79c4",
+    "completed": false,
+    "task": "2222222222222222222",
+  },
+  Object {
+    "__v": 0,
+    "_id": "5f96b033e1d75b0d3b02189a",
+    "completed": false,
+    "task": "hello world 221",
+  },
+]
+`;
