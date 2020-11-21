@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-mongoose.connect("mongodb://localhost/nav-todo", {
+mongoose.connect("mongodb://mongo:27017/nav-todo", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }, (error) => {
